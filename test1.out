@@ -1,0 +1,38 @@
+Register stations
+Add lines
+Add stations to bus line #37...
+Add stations to train line #4000
+Add stations to bus line #24
+Remove a station from the train.
+Report registered stations...
+Bay_Central
+Beer-Sheva_North
+Binyamina
+Carmel_Beach
+Hadar
+Haifa University
+Horev Center
+Old_Romema
+Tel-Aviv_University
+Report all lines...
+Train No. 4000	Direct	From: Carmel_Beach	To: Beer-Sheva_North	Price: 20.70
+Bus   No.   24	Egged	From: Bay_Central	To: Haifa University	Price: 5.60
+Bus   No.   37	Egged	From: Bay_Central	To: Haifa University	Price: 5.40
+Report lines between certain stations...
+Bus   No.   37	Egged	From: Bay_Central	To: Haifa University	Price: 5.40
+Bus   No.   24	Egged	From: Bay_Central	To: Haifa University	Price: 5.60
+Report stations for line
+Train No. 4000	Direct	From: Carmel_Beach	To: Beer-Sheva_North	Price: 20.70
+Carmel_Beach	0:00
+Tel-Aviv_University	0:48
+Beer-Sheva_North	2:28
+Report stations for line
+Bus   No.   37	Egged	From: Bay_Central	To: Haifa University	Price: 5.40
+Bay_Central	0:00
+Horev Center	0:22
+Haifa University	0:32
+Report stations for line
+Bus   No.   24	Egged	From: Bay_Central	To: Haifa University	Price: 5.60
+Bay_Central	0:00
+Old_Romema	0:27
+Haifa University	0:38

@@ -1,0 +1,52 @@
+Add bus line
+Bus   No.  901	E g  g   e    d	From: N/A	To: N/A	Price: 22.00
+register stations
+Binyamina
+Carmel Beach
+Tel Aviv Central
+Tel Aviv Savidor
+Add stations to bus line
+Bus   No.  901	E g  g   e    d	From: N/A	To: N/A	Price: 22.00
+Bus   No.  901	E g  g   e    d	From: Carmel Beach	To: Tel Aviv Central	Price: 22.00
+Carmel Beach	0:00
+Tel Aviv Savidor	1:20
+Tel Aviv Central	1:40
+Add train line
+Train No. 8500	Intercity	From: N/A	To: N/A	Price: 24.00
+Bus   No.  901	E g  g   e    d	From: Carmel Beach	To: Tel Aviv Central	Price: 22.00
+Add stations to train line
+Train No. 8500	Intercity	From: N/A	To: N/A	Price: 24.00
+Train No. 8500	Intercity	From: Carmel Beach	To: Tel Aviv Savidor	Price: 24.00
+Carmel Beach	0:00
+Tel Aviv Savidor	0:20
+Train No. 8500	Intercity	From: Carmel Beach	To: Carmel Beach	Price: 24.00
+Carmel Beach	0:00
+Train No. 8500	Intercity	From: Carmel Beach	To: Binyamina	Price: 24.00
+Carmel Beach	0:00
+Binyamina	0:22
+Train No. 8500	Intercity	From: Carmel Beach	To: Tel Aviv Savidor	Price: 24.00
+Carmel Beach	0:00
+Binyamina	0:22
+Tel Aviv Savidor	0:58
+Report lines
+Train No. 8500	Intercity	From: Carmel Beach	To: Tel Aviv Savidor	Price: 24.00
+Bus   No.  901	E g  g   e    d	From: Carmel Beach	To: Tel Aviv Central	Price: 22.00
+Report stations for line
+Train No. 8500	Intercity	From: Carmel Beach	To: Tel Aviv Savidor	Price: 24.00
+Carmel Beach	0:00
+Binyamina	0:22
+Tel Aviv Savidor	0:58
+Remove 1st line
+Unregister station
+Binyamina
+Carmel Beach
+Tel Aviv Central
+Tel Aviv Savidor
+Binyamina
+Carmel Beach
+Tel Aviv Central
+Tel Aviv Savidor
+Remove 2nd line
+Unregister stations
+Report stations
+Binyamina

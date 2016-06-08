@@ -1,0 +1,31 @@
+Add bus lines
+Add train lines
+Report lines
+Bus   No.   58	Egged	From: N/A	To: N/A	Price: 9.20
+Bus   No.   54	Klavim	From: N/A	To: N/A	Price: 11.50
+Bus   No.   60	Metropolin	From: N/A	To: N/A	Price: 9.00
+Bus   No.   61	Metropolin	From: N/A	To: N/A	Price: 8.90
+Bus   No.   59	egged	From: N/A	To: N/A	Price: 9.20
+Train No. 4000	Direct	From: N/A	To: N/A	Price: 33.00
+Train No. 2000	Intercity	From: N/A	To: N/A	Price: 33.00
+Train No. 3000	Suburban	From: N/A	To: N/A	Price: 33.00
+Report stations for line
+Train No. 2000	Intercity	From: N/A	To: N/A	Price: 33.00
+register stations
+Carmel Center
+Kiryat Eliezer
+Stellamaris
+Add stations to bus
+Bus   No.   58	Egged	From: Carmel Center	To: Kiryat Eliezer	Price: 9.20
+Carmel Center	0:01
+Stellamaris	0:05
+Kiryat Eliezer	0:10
+Report lines between stations
+Bus   No.   58	Egged	From: Carmel Center	To: Kiryat Eliezer	Price: 9.20
+Remove stations from line
+Bus   No.   58	Egged	From: Carmel Center	To: Kiryat Eliezer	Price: 9.20
+Carmel Center	0:01
+Kiryat Eliezer	0:10
+Bus   No.   58	Egged	From: Carmel Center	To: Carmel Center	Price: 9.20
+Carmel Center	0:01
+Bus   No.   58	Egged	From: N/A	To: N/A	Price: 9.20
